@@ -1,3 +1,12 @@
- tabby_cat = "\tI'm tabbed in." 2 persian_cat = "I'm split\non a line." 3 backslash_cat = "I'm \\ a \\ cat."
-4 5 fat_cat = """ 6 I'll do a list: 7 \t* Cat food 8 \t* Fishies 9 \t* Catnip\n\t* Grass 10 """
-11 12 print(tabby_cat) 13 print(persian_cat) 14 print(backslash_cat) 15 print(fat_cat
+tabby_dog = "\tI'm tabbed in."
+persian_dog = "I'm split\non a line."
+backslash_dog = "I'm \\ a \\ cat."
+fat_dog = """ 
+I'll do a list: 
+\t* Cat food 8 \t* Fishies 
+\t* Catnip\n\t* Grass 
+"""
+print(tabby_dog)
+print(persian_dog)
+print(backslash_dog)
+print(fat_dogs)
